@@ -1,0 +1,7 @@
+dict2xml
+json-repair
+scikit-learn
+srsly
+tqdm
+transformers
+vllm
